@@ -11,4 +11,7 @@ You have to install the following:
 ## Git installation
 
 Follow instructions on the website,
-in Windows choose the option
+in Windows choose the option middle option if in doubt
+
+![Command prompt options](/image/git-dialog.png)
+
