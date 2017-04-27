@@ -2,6 +2,8 @@
 
 General information about the course
 
+[Find artikler om Android features her](https://github.com/eguahlak/2016b-sem4-template-master-detail)
+
 ## Getting started
 
 You have to install the following:
