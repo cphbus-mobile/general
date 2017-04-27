@@ -29,3 +29,5 @@ Onsdag den 10. maj 2017
 | 09:00 | 09:30 | Pia Jensen      |
 | 09:30 | 10:00 | Nicolai Rostrup |
 | 10:00 | 10:30 | Rasmus Bæk      |
+
+__Alle__ undtagen Brian møder en halv time før
