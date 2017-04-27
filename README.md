@@ -22,7 +22,7 @@ in Windows choose the option middle option if in doubt
 
 ## Aflevering
 
-Projekt og rapport (2+ sider) pushes til GitHub. Rapporten kan enten være en pdf-fil eller `README.md` filen.
+Projekt og rapport (2+ sider) pushes til GitHub. Rapporten kan enten være en pdf-fil eller `README.md` filen (<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>).
 På Wiseflow afleveres en PDF-fil med navn og githubadresse.
 
 ## Rækkefølge
