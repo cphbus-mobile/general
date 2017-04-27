@@ -18,7 +18,17 @@ in Windows choose the option middle option if in doubt
 
 ![Command prompt options](/image/git-dialog.png)
 
-## Eksamensrækkefølge
+# Eksamen
+
+## Aflevering
+
+Projekt og rapport (2+ sider) pushes til GitHub. Rapporten kan enten være en pdf-fil eller `README.md` filen
+
+```kotlin
+class Pet(val name: String)
+```
+
+## Rækkefølge
 
 Onsdag den 10. maj 2017
 
