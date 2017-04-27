@@ -16,3 +16,14 @@ in Windows choose the option middle option if in doubt
 
 ![Command prompt options](/image/git-dialog.png)
 
+## Eksamensrækkefølge
+
+Onsdag den 10. maj 2017
+
+| Fra   | Til   | Navn            |
+| :---: | :---: | :-------------- |
+| 08:00 | 08:30 | Brian Frimann   |
+| 08:30 | 09:00 | Carsten Brandt  |
+| 09:00 | 09:30 | Pia Jensen      |
+| 09:30 | 10:00 | Nicolai Rostrup |
+| 10:00 | 10:30 | Rasmus Bæk      |
